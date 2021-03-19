@@ -1,0 +1,3 @@
+[submodule "ant_colony_optimization"]
+	path = ant_colony_optimization
+	url = git@github.com:timbrockmeyer/ant_colony_optimization.git
