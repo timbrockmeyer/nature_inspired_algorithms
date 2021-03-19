@@ -1,3 +1,6 @@
 [submodule "ant_colony_optimization"]
 	path = ant_colony_optimization
 	url = git@github.com:timbrockmeyer/ant_colony_optimization.git
+[submodule "genetic_algorithm"]
+	path = genetic_algorithm
+	url = git@github.com:timbrockmeyer/genetic_algorithm.git
